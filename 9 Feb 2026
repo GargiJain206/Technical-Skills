@@ -47,3 +47,4 @@ public class Diagonalsum {
         System.out.print("Sum of the diagonal elements: "+ sum);
     }   
 }
+
